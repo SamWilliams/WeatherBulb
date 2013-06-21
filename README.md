@@ -2,7 +2,7 @@ WeatherBulb 0.5
 ===============
 Change the color of your Philips Hue bulb based on the current minute weather forecast from the forecast.io api
 
-If You are tired of getting soaked because you forgot to check one of the 500+ weather apps you have on your phone, and happen to have a Philips Hue kit, this script is for you.
+If You are tired of getting soaked because you forgot to check one of the 500+ weather apps installed on your phone, and happen to have a Philips Hue kit, this script is for you.
 
 
 Requirements
